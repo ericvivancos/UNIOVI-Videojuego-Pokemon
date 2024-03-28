@@ -1,0 +1,6 @@
+﻿  Game.cpp
+D:\Universidad\UNIOVI\2022-2023\Software de Entretenimiento y Videojuegos\Pokémon\Pokemon\Audio.h(8,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\Universidad\UNIOVI\2022-2023\Software de Entretenimiento y Videojuegos\Pokémon\Pokemon\MenuLayer.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+D:\Universidad\UNIOVI\2022-2023\Software de Entretenimiento y Videojuegos\Pokémon\Pokemon\Game.cpp(75,56): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Universidad\UNIOVI\2022-2023\Software de Entretenimiento y Videojuegos\Pokémon\Pokemon\Game.cpp(75,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Pokemon.vcxproj -> D:\Universidad\UNIOVI\2022-2023\Software de Entretenimiento y Videojuegos\Pokémon\Debug\Pokemon.exe
